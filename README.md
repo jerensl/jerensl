@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="left" id="jerensl-title">:wave: Hello there! I'm Jerens Lensun</h1>
+<h3 align="left">I am a Software Developer at Nordstone </h3>
 
-<!--
-**jerensl/jerensl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="#jerensl-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=jerensl&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Jerens Lensun" align="right" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :office: &nbsp;I'm currently studied at **Universitas Sam Raatulangi**
+- :writing_hand: &nbsp;I regulary write article on my **[blog]**
+- :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
+- :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :bird: &nbsp;Let's talk more in **[Twitter]**
+
+[linkedin]: https://www.linkedin.com/in/jerensl "LinkedIn"
+[twitter]: https://twitter.com/jerensl "Twitter"
+[blog]: https://www.jerenslensun.com/blog "Blog"
