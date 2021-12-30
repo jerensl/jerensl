@@ -1,5 +1,5 @@
 <h1 align="left" id="jerensl-title">:wave: Hello there! I'm Jerens Lensun</h1>
-<h3 align="left">I am a Software Engineer </h3>
+<h3 align="left">I am a Software Engineer</h3>
 
 
 <a href="#jerensl-title">
