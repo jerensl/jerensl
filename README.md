@@ -1,5 +1,5 @@
 <h1 align="left" id="jerensl-title">:wave: Hello there! I'm Jerens Lensun</h1>
-<h3 align="left">I am a Software Developer at Nordstone </h3>
+<h3 align="left">I am a Software Engineer </h3>
 
 
 <a href="#jerensl-title">
@@ -16,3 +16,5 @@
 [linkedin]: https://www.linkedin.com/in/jerensl "LinkedIn"
 [twitter]: https://twitter.com/jerensl "Twitter"
 [blog]: https://www.jerenslensun.com/blog "Blog"
+
+[![Suhail's github activity graph](https://activity-graph.herokuapp.com/graph?username=jerensl&theme=react-dark)](https://github.com/jerensl)
