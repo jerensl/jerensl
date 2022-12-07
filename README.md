@@ -18,4 +18,4 @@
 [instagram]: https://www.instagram.com/jerensl/ "Instagram"
 [blog]: https://www.jerenslensun.com/blog "Blog"
 
-[![Suhail's github activity graph](https://activity-graph.herokuapp.com/graph?username=jerensl&theme=react-dark)](https://github.com/jerensl)
+[![Jerens's github activity graph](https://activity-graph.herokuapp.com/graph?username=jerensl&theme=react-dark)](https://github.com/jerensl)
