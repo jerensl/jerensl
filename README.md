@@ -6,16 +6,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jerensl&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Jerens Lensun" align="right" />
 </a>
 
-- 🧑‍🎓 &nbsp;I'm currently studied at **Universitas Sam Ratulangi**
-- ✍️ &nbsp;I regulary write article on my **[blog]**
+- 🧑‍🎓 &nbsp;I'm currently doing OSS and working with my [personal website]**
+- ✍️ &nbsp;I regularly write article on my **[blog]**
 - 💬 &nbsp;I like to talk about **Tech** and **Football**
 - 💻 &nbsp;Connect with me on **[LinkedIn]**
 - 🐦 &nbsp;Let's talk more in **[Twitter]**
-- 🤟 &nbsp;Follow me on instagram **[Instagram]**
+- 🤟 &nbsp;Follow me on Instagram **[Instagram]**
 
 [linkedin]: https://www.linkedin.com/in/jerensl "LinkedIn"
 [twitter]: https://twitter.com/jerensl22 "Twitter"
 [instagram]: https://www.instagram.com/jerensl/ "Instagram"
 [blog]: https://www.jerenslensun.com/blog "Blog"
+[personal website]: https://www.jerenslensun.com/ "Personal Website"
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jerensl&bg_color=000000&color=fb7e7e&line=ffb3b3&point=d23232&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
