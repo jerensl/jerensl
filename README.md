@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jerensl&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Jerens Lensun" align="right" />
 </a>
 
-- 🧑‍🎓 &nbsp;I'm currently doing OSS and working with my **[personal website]**
+- 🧑‍🎓 &nbsp;I'm currently contributing to OSS and working with my **[personal website]**
 - ✍️ &nbsp;I regularly write article on my **[blog]**
 - 💬 &nbsp;I like to talk about **Tech** and **Football**
 - 💻 &nbsp;Connect with me on **[LinkedIn]**
