@@ -1,9 +1,8 @@
 <h1 align="left">Hello there! I'm Jerens S. Lensun</h1>
 <h3 align="left">Software Engineer · Browser Engines · Rust · Open Source</h3>
 
-I build inside **[Servo](https://github.com/servo/servo)**, the Rust browser engine, across
-script bindings, DOM, IndexedDB, DevTools, and developer tooling. I work where web standards
-meet implementation — making an engine easier to change, test, and ship.
+I'm an open-source contributor to **[Servo](https://github.com/servo/servo)**, the Rust browser
+engine, working across script bindings, DOM, IndexedDB, DevTools, and developer tooling.
 
 [**Portfolio**](https://jerensl.dev/) ·
 [**Blog**](https://jerensl.dev/blog/) ·
@@ -14,11 +13,12 @@ meet implementation — making an engine easier to change, test, and ship.
 
 ### Highlights
 
-[![Merged PRs in Servo](https://img.shields.io/github/issues-search?query=repo%3Aservo%2Fservo+is%3Apr+author%3Ajerensl+is%3Amerged&label=merged%20PRs%20in%20Servo&color=d23232)](https://github.com/servo/servo/pulls?q=is%3Apr+author%3Ajerensl+is%3Amerged)
+[![Merged PRs in Servo](https://img.shields.io/github/issues-search?query=author%3Ajerensl+is%3Apr+is%3Amerged+org%3Aservo&label=merged%20PRs%20across%20Servo&color=d23232)](https://github.com/search?q=author%3Ajerensl+is%3Apr+is%3Amerged+org%3Aservo&type=pullrequests)
 [![Merged PRs in Meshery/Layer5](https://img.shields.io/github/issues-search?query=author%3Ajerensl+is%3Apr+is%3Amerged+org%3Ameshery+org%3Alayer5io+org%3Ameshery-extensions&label=merged%20PRs%20in%20Meshery%2FLayer5&color=d23232)](https://github.com/search?q=author%3Ajerensl+is%3Apr+is%3Amerged+org%3Ameshery+org%3Alayer5io+org%3Ameshery-extensions&type=pullrequests)
+[![Merged PRs in AsyncAPI](https://img.shields.io/github/issues-search?query=author%3Ajerensl+is%3Apr+is%3Amerged+org%3Aasyncapi&label=merged%20PRs%20in%20AsyncAPI&color=d23232)](https://github.com/search?q=author%3Ajerensl+is%3Apr+is%3Amerged+org%3Aasyncapi&type=pullrequests)
 
 - **Outreachy alum** · **LFX Mentorship alum (CNCF)**
-- Shipped web-platform features and built the CI, linting, and type-checking tooling that keeps an engine safe to change
+- Contributed web-platform features and improved CI, linting, and type-checking tooling for the engine
 
 ### Selected open source work
 
