@@ -1,0 +1,20 @@
+README.md
+  s_6b5b48f9267015::t_086fa1d4bbe561 1-2,4-6,8-11,13,15,20-44
+  s_6b5b48f9267015::t_f28fae2a9ef9c7 17-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "462f7faa17c4ec0ca9fe819fe979e28007e1cf94",
+  "prompts": {},
+  "sessions": {
+    "s_6b5b48f9267015": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e132250d7ffeTNk35vDkUd50Qa",
+        "model": "deepseek-v4.1-flash-free"
+      },
+      "human_author": "Jerens Lensun <jerensslensun@gmail.com>"
+    }
+  }
+}
